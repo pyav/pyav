@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pyav
-- 👀 I’m interested in software architecture and problem solving.
+- 👀 I’m interested in software architecture and problem solving
 - 🌱 I’m currently learning software architecture
-- 💞️ I’m looking to collaborate on problem solving, software design and architecture.
+- 💞️ I’m looking to collaborate on problem solving, software design and architecture
 - 📫 How to reach me => Email, LinkedIn, Tweet.
 
 <!---
